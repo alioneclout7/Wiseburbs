@@ -1,0 +1,32 @@
+.custom-radio .custom-control-input:checked ~ .custom-control-label::before {
+  background-color: red !important;
+}
+
+.btn-custom-variant {
+  background: orange;
+}
+
+.form-check-input:checked {
+  background-color: rgb(35, 222, 35);
+  border-color: rgb(35, 222, 35);
+}
+
+.form-check-input:checked[type="radio"] {
+  background-image: none;
+}
+
+.btn-green {
+  background-color: rgb(12, 247, 12);
+  border-color: rgb(12, 247, 12);
+  color: #ffffff;
+}
+
+.btn:hover {
+  /* color: #ffffff; */
+}
+
+.btn-font {
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 10px;
+}

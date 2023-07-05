@@ -1,0 +1,18 @@
+.card-container {
+  /* bac: yellow; */
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+}
+
+.orange-card {
+  background-color: orange;
+}
+
+.green-card {
+  background-color: rgb(35, 222, 35);
+}
+
+.blue-card {
+  background-color: rgb(48, 204, 239);
+}
